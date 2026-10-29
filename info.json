@@ -1,0 +1,9 @@
+{
+  "name": "missing-science-packs",
+  "version": "0.1.0",
+  "factorio_version": "2.1",
+  "title": "Missing Science Packs",
+  "author": "Eldrinn",
+  "description": "Shows which science packs your labs are missing for the current research, and how many labs are waiting for each one.",
+  "dependencies": ["base >= 2.1"]
+}

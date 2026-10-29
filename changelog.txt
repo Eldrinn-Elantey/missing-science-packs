@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.0
+  Changes:
+    - Show missing science packs for the current research under the research bar, with the number of labs waiting for each pack
+    - Count only labs that accept every pack of the current research
